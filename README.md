@@ -1,0 +1,2 @@
+# dotfiles-bashrc
+bashrc configuration
